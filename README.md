@@ -3,7 +3,7 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-> - 👋 Me chamo **Altieres Kauan**, tenho 21 anos.
+> - 👋 Me chamo **Altieres Kauan**, tenho 22 anos.
 > - 📌  De Atibaia, São Paulo, Brazil.
 > - 🎓 Cursando Ciências da Computação na Universidade Cruzeiro do Sul. 
 > - 💬 Pergunte-me sobre **Python**, posso te ajudar!
